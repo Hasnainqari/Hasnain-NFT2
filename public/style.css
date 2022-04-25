@@ -1,0 +1,727 @@
+/* navbar section */
+.section-1 {
+    background-color: #3c00ac;
+}
+
+.mobile {
+    background-color: #e2c565;
+    color: black;
+    border-radius: 30px;
+    height: 50px;
+    font-family: 'Bree Serif', serif;
+    border: none;
+    width: 180px;
+    margin-left: 50px;
+    margin-top: 35px;
+}
+
+.mobile:hover {
+    background-color: rgb(167, 74, 74);
+}
+
+.padding {
+    margin-left: 100px;
+    color: white;
+    font-size: 25px;
+}
+
+.padding:hover {
+    color: cadetblue;
+}
+
+.margin {
+    margin-left: 10px;
+    color: white;
+    font-size: 25px;
+}
+
+.margin:hover {
+    color: cadetblue;
+}
+
+.div {
+    margin-top: 40px;
+}
+
+.dev {
+    margin-top: 40px;
+}
+
+.headphone {
+    margin-left: 40px;
+}
+
+.laptop {
+    margin-top: 20px;
+}
+
+.mag {
+    margin-left: 15px;
+    color: white;
+    font-size: 25px;
+}
+
+.mag:hover {
+    color: cadetblue;
+}
+
+#talib {
+    color: white;
+}
+
+#tali {
+    color: white;
+}
+
+#taley {
+    color: white;
+}
+
+#talib:hover {
+    color: cadetblue;
+}
+
+#tali:hover {
+    color: cadetblue;
+}
+
+#taley:hover {
+    color: cadetblue;
+}
+
+/* navbar-section-2 */
+h2 {
+    color: white;
+    margin-left: 150px;
+    position: relative;
+    top: 20px;
+}
+
+.top {
+    margin-top: 100px;
+}
+
+.tops {
+    margin-top: 100px;
+}
+
+.mobil {
+    background-color: #e2c565;
+    color: black;
+    border-radius: 30px;
+    height: 50px;
+    font-family: 'Bree Serif', serif;
+    border: none;
+    width: 180px;
+    margin-top: 20px;
+    margin-left: 119px;
+}
+
+.mobil:hover {
+    background-color: rgb(167, 74, 74);
+}
+
+.nine {
+    font-size: 20px;
+    font-weight: 700;
+    word-spacing: 50px;
+    cursor: none;
+    border-radius: 20px;
+    border: none;
+    width: 200px;
+    height: 40px;
+    margin-top: 30px;
+    margin-left: 110px;
+}
+
+.nine:hover {
+    cursor: none;
+    color: white;
+    background-color: red;
+}
+
+.ten {
+    margin-top: 200px;
+}
+
+#one {
+    width: 300px;
+    position: relative;
+    right: 55px;
+}
+
+.palang h1 {
+    display: none;
+}
+
+.bag h1 {
+    color: white;
+    margin-left: 655px;
+    margin-top: 20px;
+}
+
+/* section-2 */
+.section-2 {
+    background-color: #97bad8;
+    height: 780px;
+}
+
+#heading {
+    font-weight: bold;
+    color: rgb(110, 23, 23);
+    margin-left: 30%;
+    position: relative;
+    top: 80px;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+h3 {
+    color: white;
+    position: relative;
+    top: 120px;
+}
+
+#ballo {
+
+    position: relative;
+    top: 150px;
+    left: 80px;
+    width: 370px;
+}
+
+/* section-3 */
+.section-3 {
+    height: 650px;
+    background-color: rgb(223, 30, 94);
+}
+
+#heading-2 {
+    font-weight: bold;
+    color: rgb(21, 24, 24);
+    margin-left: 40%;
+    position: relative;
+    top: 80px;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+#heading-2:hover {
+    color: white;
+}
+
+#heading-3 {
+    color: rgb(21, 24, 24);
+    position: relative;
+    right: 150px;
+    top: 150px;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+#heading-3:hover {
+    color: white;
+}
+
+#heading-4 {
+    color: rgb(21, 24, 24);
+    position: relative;
+    top: 180px;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+#heading-4:hover {
+    color: white;
+}
+
+#heading-5 {
+    color: rgb(21, 24, 24);
+    position: relative;
+    top: 180px;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+#heading-5:hover {
+    color: white;
+}
+
+#heading-6 {
+    color: rgb(21, 24, 24);
+    position: relative;
+    right: 80px;
+    top: 150px;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+#heading-6:hover {
+    color: white;
+}
+
+#heading-7 {
+    color: rgb(21, 24, 24);
+    position: relative;
+    left: 70px;
+    top: 180px;
+    font-family: 'Baloo Bhai 2', cursive;
+    color: rgb(21, 24, 24);
+}
+
+#heading-7:hover {
+    color: white;
+}
+
+#paragraph {
+    color: rgb(21, 24, 24);
+    position: relative;
+    top: -30px;
+    left: 450px;
+}
+
+#paragraph:hover {
+    color: white;
+}
+
+/* section-4 & section-5*/
+.section-4 {
+    height: 1350px;
+    background-color: #008679;
+}
+
+.section-5 img {
+    margin-top: 70px;
+    width: 100%;
+    height: 1200px;
+}
+
+#heading-8 {
+    color: rgb(252, 252, 188);
+    position: relative;
+    top: -1130px;
+    text-align: center;
+    font-family: 'Bree Serif', serif;
+}
+#heading-8:hover{
+    color: black;
+}
+#watche {
+    position: relative;
+    top: -1050px;
+    left: 60px;
+}
+
+#heading-9 {
+    color: white;
+    position: relative;
+    top: -1200px;
+    left: 170px;
+    font-family: 'Bree Serif', serif;
+}
+
+#heading-10 {
+    color: white;
+    position: relative;
+    top: -1200px;
+    left: 170px;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+#heading-11 {
+    color: white;
+    position: relative;
+    top: -1070px;
+    left: 60px;
+    border: 3px solid white;
+    height: 100px;
+    width: 120px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#heading-12 {
+    color: white;
+    position: relative;
+    top: -1050px;
+    left: 10px;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+#heading-13 {
+    color: white;
+    position: relative;
+    top: -1040px;
+    left: 60px;
+    border: 3px solid white;
+    height: 100px;
+    width: 120px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#heading-14 {
+    color: white;
+    position: relative;
+    top: -1010px;
+    left: 10px;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+#heading-15 {
+    color: white;
+    position: relative;
+    top: -1010px;
+    left: 60px;
+    border: 3px solid  white;
+    height: 100px;
+    width: 120px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#heading-16 {
+    color: white;
+    position: relative;
+    top: -1000px;
+    left: 10px;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+#heading-17 {
+    color: white;
+    position: relative;
+    top: -980px;
+    left: 60px;
+    border: 3px solid white;
+    height: 100px;
+    width: 120px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#heading-18 {
+    color: white;
+    position: relative;
+    top: -960px;
+    left: 10px;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+#heading-19 {
+    color: white;
+    position: relative;
+    top: -950px;
+    left: 60px;
+    border: 3px solid white;
+    height: 100px;
+    width: 120px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#heading-20 {
+    color: white;
+    position: relative;
+    top: -930px;
+    left: 10px;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+/* section-6 */
+.section-6 {
+background-color: #7c0ea1;
+}
+
+#heading-21 {
+    color: yellow;
+    position: relative;
+    top: 100px;
+    right: 30px;
+    text-align: center;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+#monkey {
+    margin-top: 150px;
+}
+
+#heading-22 {
+    position: relative;
+    top: -2px;
+    left: 40px;
+}
+
+#heading-23 {
+    position: relative;
+    left: 40px;
+    color: yellow;
+}
+
+#monkey-2 {
+    margin-top: 150px;
+}
+
+#heading-24 {
+    position: relative;
+    top: -2px;
+    left: 35px;
+}
+
+#heading-25 {
+    position: relative;
+    left: 40px;
+    color: yellow;
+}
+
+#monkey-3 {
+    margin-top: 150px;
+}
+
+#heading-26 {
+    position: relative;
+    top: -2px;
+    left: 20px;
+}
+
+#heading-27 {
+    position: relative;
+    left: 55px;
+    color: yellow;
+}
+
+#monkey-4 {
+    margin-top: 150px;
+}
+
+#heading-28 {
+    position: relative;
+    top: -2px;
+    left: 35px;
+}
+
+#heading-29 {
+    position: relative;
+    left: 75px;
+    color: yellow;
+}
+
+#monkey-5 {
+    margin-top: 70px;
+}
+
+#heading-30 {
+    position: relative;
+    top: -2px;
+    left: 3px;
+}
+
+#heading-31 {
+    position: relative;
+    left: 25px;
+    color: yellow;
+}
+
+#monkey-6 {
+    margin-top: 70px;
+}
+
+#heading-32 {
+    position: relative;
+    top: -2px;
+    left: 20px;
+}
+
+#heading-33 {
+    position: relative;
+    left: 55px;
+    color: yellow;
+}
+
+/* section-7 */
+.section-7 {
+    background-color: #9bbcdb;
+    height: 1450px;
+    /* width: 1350px; */
+}
+
+.fixv {
+    display: none;
+}
+
+.tdr {
+    display: none;
+}
+
+#heading-34 {
+    color: black;
+    position: relative;
+    top: 100px;
+    right: 30px;
+    text-align: center;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+.heading-35 {
+    color: white;
+    position: relative;
+    top: -1px;
+    top: 25px;
+    left: 25px;
+    font-family: 'Bree Serif', serif;
+}
+
+.paragraph-10 {
+    position: relative;
+    top: 25px;
+    left: 25px;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+
+.rews {
+    background-color: #f6c95d;
+    position: relative;
+    top: 150px;
+    /* display: none; */
+    height: 150px;
+    border-radius: 15px;
+}
+
+.rewss {
+    background-color: #f6c95d;
+    position: relative;
+    top: 170px;
+    height: 150px;
+    border-radius: 15px;
+}
+
+.rewsss {
+    background-color: #f6c95d;
+    position: relative;
+    top: 190px;
+    height: 120px;
+    border-radius: 15px;
+}
+
+.rewssss {
+    background-color: #f6c95d;
+    position: relative;
+    top: 210px;
+    height: 150px;
+    border-radius: 15px;
+}
+
+.rewsssss {
+    background-color: #f6c95d;
+    position: relative;
+    top: 230px;
+    height: 170px;
+    border-radius: 15px;
+}
+
+.rewssssss {
+    background-color: #f6c95d;
+    position: relative;
+    top: 250px;
+    height: 265px;
+    border-radius: 15px;
+}
+
+.section-8 {
+    background-color: #7f1a31;
+    height: 300px;
+    /* width: 1350px; */
+}
+
+.heading-42 {
+    margin-top: 60px;
+    font-family: 'Baloo Bhai 2', cursive;
+    margin-left: 45px;
+    color: rgb(238, 238, 146);
+}
+.heading-42:hover{
+    color: white;
+
+}
+
+.heading-43 {
+    margin-left: 10px;
+    color: white;
+}
+
+.paddingss {
+    color: black;
+    font-size: 50px;
+    position: relative;
+    left: 210px;
+}
+
+
+.paddingss:hover {
+    color: white;
+}
+
+
+/* footer */
+.footer {
+    background-color: #212529;
+    height: 470px;
+    /* width: 1350px; */
+}
+
+#image-10 {
+    position: relative;
+    left: 140px;
+    top: 80px;
+}
+
+#heading-45 {
+    color: white;
+    list-style-type: none;
+    position: relative;
+    top: 100px;
+    left: 38px;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+.paddingswe {
+    position: relative;
+    top: 65px;
+    left: 170px;
+    color: white;
+    font-size: 25px;
+}
+
+.margines {
+   
+    position: relative;
+    top: -2px;
+    left: 230px;
+    color: white;
+    font-size: 25px;
+}
+
+.magxyzx {
+    position: relative;
+    top: -70px;
+    left: 290px;
+    color: white;
+    font-size: 25px;
+}
+
+.paddingswe:hover {
+    color: rgb(235, 93, 93);
+}
+
+.margines:hover {
+    color: rgb(235, 93, 93);
+}
+
+.magxyzx:hover {
+    color: rgb(235, 93, 93);
+}
+
+.fixed h5 {
+    list-style-type: none;
+    font-size: 18px;
+    color: white;
+    position: relative;
+    top: 70px;
+    left: 345px;
+    font-family: 'Baloo Bhai 2', cursive;
+}
